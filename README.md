@@ -1,2 +1,2 @@
-# go_rest_ocp
-For building Go OCP images
+# go_rest
+Sample Go project with a rest API
