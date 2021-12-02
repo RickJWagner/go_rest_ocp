@@ -46,5 +46,7 @@ func main() {
             Article{Title: "Hello", Desc: "Article Description", Content: "Article Content"},
             Article{Title: "Hello 2", Desc: "Article Description", Content: "Article Content"},
     }
+    fmt.Println("Waiting for requests")
     handleRequests()
+    fmt.Println("Ending")
 }
